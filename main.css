@@ -1,3 +1,117 @@
-.background-image {
+.pic3 img {
+    width: 500;
+    height: 600px;
+    padding-top: 200px;
     float: right;
+}
+
+.pic1 {
+    background-image: url("/image/3people.jpeg");
+
+}
+
+.pic2 img {
+    background-image: url("/image/get-hired-woman@2x-min.png.webp");
+}
+
+.background {
+    height: 600px;
+    background-size: 500px 600px;
+    background-repeat: no-repeat;
+    border-bottom: 100px;
+}
+
+.partnershipStart {
+    text-align: center;
+    height: 1000px;
+    background-color: aqua;
+}
+
+.partnershipStart img {
+    float: left;
+}
+
+header {
+    background-color: white;
+    /* opacity: 0.9; */
+    position: fixed;
+}
+
+.top_bar {
+    color: blue;
+    padding-top: 20px;
+    display: grid;
+    list-style-type: none;
+    grid-template-columns: repeat(8, 8fr);
+    grid-template-rows: repeat(1, 80px);
+}
+
+.top_bar button:hover {
+    background-color: rgba(40, 40, 243, 0.85);
+    border-radius: 20%;
+}
+
+.pop-out-list {
+    list-style-type: none;
+    font-size: 25px;
+    text-underline-position: below;
+
+}
+
+.mainText {
+    text-align: left;
+    padding-top: 200px;
+    font-size: 20px;
+    color: rgb(143, 143, 80)
+}
+
+.mainText h1 {
+    font-size: 75px;
+    color: rgb(80, 80, 107)
+}
+
+.mainText button {
+
+    border-radius: 25%;
+    color: white;
+    background-color: rgb(58, 58, 224);
+}
+
+.workPlaces {
+    padding-top: 250px;
+    text-transform: uppercase;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+.workPlaceList {
+    padding-top: 25px;
+    color: rgb(39, 39, 97);
+    font-size: 20px;
+}
+
+.one_stop {
+    text-align: center;
+    font-size: 55px;
+}
+
+.button1 {
+    color: white;
+    border-radius: 20%;
+    background-color: rgba(40, 40, 243, 0.85);
+}
+
+.button1:hover {
+    border-radius: 25%;
+    background-color: rgb(58, 58, 224);
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer ul {
+    list-style-type: none;
+
 }
