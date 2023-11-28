@@ -115,3 +115,101 @@ header {
     list-style-type: none;
 
 }
+
+.background-image2{
+    background-image: url(  https://cdn.create.vista.com/api/media/medium/326233788/stock-photo-handsome-man-holding-laptop-smiling-camera-pink-background?token=);
+    width: 500px;
+    height: 337px;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    position: relative;    
+}
+
+.background-image3{
+    background-image: url( https://pixahive.com/wp-content/uploads/2020/10/A-girl-holding-a-laptop-in-hands-133969-pixahive.jpg);
+    width: 500px;
+    height: 337px;
+    background-repeat: no-repeat;
+    background-size: contain;  
+    position: relative;
+    background-position: right;
+}
+
+
+.background-image1{
+    background-image: url( https://img.freepik.com/free-photo/happy-european-woman-white-shirt-expressing-positive-emotions-joyful-blonde-girl-light-wall_197531-14427.jpg?size=626&amp;ext=jpg&amp;ga=GA1.1.1826414947.1699920000&amp;semt=ais);
+    width: 500px;
+    height: 337px;
+    display: grid;
+ float: right;
+  
+}
+
+.top{
+   color: blue;
+   font-size: 50px;
+}
+
+.second{
+   
+}
+
+.network{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(1, 31, 191) blue;
+}
+
+.row-numbers{
+    text-align: row;
+    font-size: 20px;
+    color: rgb(1, 31, 191) blue;
+}
+
+.row-paths{
+    text-align: center;
+    font-size: px;
+    color: rgb(1, 31, 191) blue;
+}
+
+.row{
+    font: 35px;
+    color: white
+}
+
+.upcoming{
+    float: center;
+    font-size: 40px ;
+    color: rgb(1, 31, 191) blue;;
+}
+
+.FAQS{
+    font-size: 40px;
+    text-align: center;
+    padding-left: 50px;
+}
+
+
+
+
+li{
+    list-style: none;
+}
+
+.click-0n {
+    font: 200;
+    font-style: bold;
+    font-size: large;
+    border-radius: 25%;
+    background-color: blue;
+    color: white;
+    text-align: left;
+  }
+
+  .Image-footer{
+    background-color: grey;
+    width: 90%;
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+  }
